@@ -1,2 +1,1 @@
-A PACMAN - MARIO inspired game built using C++.
-Implemented grapics.h
+A PACMAN - MARIO inspired game built using C++ implementing the library graphics.h.
